@@ -1,12 +1,15 @@
-## Hi there 👋
+2020年にスタートしたPLATEAUは、多くの地方公共団体や民間企業、多様な研究者、エンジニア、クリエイターらが参加するプラットフォームとして成長を続けている。
 
-<!--
+都市のマネジメント、都市機能の集約、サステナブルなまちづくりーー。
+PLATEAUを基盤としたまちづくりのデジタル・トランスフォーメーションは社会や地域の課題を解決する。
 
-**Here are some ideas to get you started:**
+既存のデータから3D都市モデルを生成することで、これからの時代に必要な都市の可能性が見えてきた。データをオープンにしているからこそ、知恵の共有や新しいアクションが広がっていく。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+都市の情報は統合・可視化されることで、
+これからの社会にとって意味のある情報に変わる。
+3D都市モデルは来るべきSociety5.0の基盤になるだろう。
+
+それは、持続可能で誰もが住みやすく、参加可能な社会づくりの始まりである。
+
+# Map the New World.
+# PLATEAUは新しい世界を創る。
