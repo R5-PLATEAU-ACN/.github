@@ -18,4 +18,4 @@ PLATEAUを基盤としたまちづくりのデジタル・トランスフォー�
 
 
 ## リポジトリ一覧
-ProjectPLATEAUのユースケース開発の成果物の一覧は[こちら](https://github.com/R5-Plateau-ACN/.github/wiki)
+ProjectPLATEAUのユースケース開発の成果物の一覧は[こちら](https://github.com/R5-PLATEAU-ACN/.github/wiki)
